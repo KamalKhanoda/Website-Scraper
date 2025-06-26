@@ -25,7 +25,7 @@ pip install beautifulsoup4
    python headlinesScraper.py
    ```
 
-2. Check the output:  
+2. Check the output:
    The headlines will be saved in `headlines.txt` in the same folder.
 
 
@@ -38,7 +38,7 @@ pip install beautifulsoup4
 ---
 
 ## Output
-
+![image](https://github.com/user-attachments/assets/d3cfbfe9-6731-483f-a91b-fbd26067c7b7)
 
 
 *This project is for educational purposes and demonstrates basic web scraping in Python.*
