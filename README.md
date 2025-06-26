@@ -1,4 +1,3 @@
-   ![Screenshot (7)](https://github.com/user-attachments/assets/04b46b72-65ae-40a7-a060-162b4b7f81fd)
 # Website-Scraper
 # The Hindu News Headlines Scraper
 
