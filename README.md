@@ -1,3 +1,4 @@
+   ![Screenshot (7)](https://github.com/user-attachments/assets/04b46b72-65ae-40a7-a060-162b4b7f81fd)
 # Website-Scraper
 # The Hindu News Headlines Scraper
 
@@ -38,7 +39,7 @@ pip install beautifulsoup4
 ---
 
 ## Output
-![image](https://github.com/user-attachments/assets/d3cfbfe9-6731-483f-a91b-fbd26067c7b7)
+![Screenshot (7)](https://github.com/user-attachments/assets/04b46b72-65ae-40a7-a060-162b4b7f81fd)
 
 
 *This project is for educational purposes and demonstrates basic web scraping in Python.*
